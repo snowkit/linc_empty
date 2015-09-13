@@ -1,0 +1,14 @@
+<xml>
+
+    <files id='haxe'>
+
+        <compilerflag value='-I${LINC_EMPTY_PATH}/linc/'/>
+
+    </files>
+
+    <target id="haxe">
+
+
+    </target>
+
+</xml>
