@@ -1,4 +1,4 @@
-package soloud;
+package empty;
 
 @:keep
 @:include('linc_empty.h')
