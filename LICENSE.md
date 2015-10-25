@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Sven Bergström
+Copyright (c) 2015 Sven Bergström   
 Copyright (c) 2015 snõwkit contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
