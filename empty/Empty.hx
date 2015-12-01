@@ -2,8 +2,10 @@ package empty;
 
 @:keep
 @:include('linc_empty.h')
+#if !display
 @:build(linc.Linc.touch())
 @:build(linc.Linc.xml('empty'))
+#end
 extern class Empty {
 
         //external native function definition
