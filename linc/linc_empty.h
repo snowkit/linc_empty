@@ -9,6 +9,8 @@ namespace linc {
 
     namespace empty {
 
+        extern int example();
+
     } //empty namespace
 
 } //linc
