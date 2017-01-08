@@ -1,9 +1,10 @@
-#ifndef _LINC_EMPTY_H_
-#define _LINC_EMPTY_H_
-    
-// #include "../lib/____"
+#pragma once
 
+//hxcpp include should always be first    
 #include <hxcpp.h>
+
+//include other library includes as needed
+// #include "../lib/____"
 
 namespace linc {
 
@@ -14,5 +15,3 @@ namespace linc {
     } //empty namespace
 
 } //linc
-
-#endif //_LINC_EMPTY_H_
